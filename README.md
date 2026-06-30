@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou a Bianca! 👋
 
-<!--
-**biancalaiza/biancalaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou estudante de Engenharia de Produção e estou desenvolvendo conhecimentos em tecnologia e análise de dados.
 
-Here are some ideas to get you started:
+📚 Tenho interesse em:
+* Desenvolvimento Web
+* Análise de Dados
+* Automação de Processos
+* Melhoria Contínua
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Objetivos:
+* Aprimorar minhas habilidades em programação.
+* Aplicar tecnologia para otimizar processos e resolver problemas.
+
