@@ -1,14 +1,1 @@
-# Olá, eu sou a Bianca! 👋
-
-🎓 Sou estudante de Engenharia de Produção e estou desenvolvendo conhecimentos em tecnologia e análise de dados.
-
-📚 Tenho interesse em:
-* Desenvolvimento Web
-* Análise de Dados
-* Automação de Processos
-* Melhoria Contínua
-
-🚀 Objetivos:
-* Aprimorar minhas habilidades em programação.
-* Aplicar tecnologia para otimizar processos e resolver problemas.
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F75757&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Bianca!+%F0%9F%91%8B+Estudante+de+Engenharia+de+Produ%C3%A7%C3%A3o+Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" /></a>
