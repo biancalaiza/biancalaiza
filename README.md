@@ -3,9 +3,9 @@
 🎓 Sou estudante de Engenharia de Produção e estou desenvolvendo conhecimentos em tecnologia e análise de dados.
 
 📚 Tenho interesse em:
-Análise de Dados
-Automação de Processos
-Melhoria Contínua
+* Análise de Dados
+* Automação de Processos
+* Melhoria Contínua
 
 🚀 Objetivos:
 Aprimorar minhas habilidades em programação.
